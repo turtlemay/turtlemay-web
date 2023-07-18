@@ -97,10 +97,10 @@ ul.tm__subLinks {
 ul.tm__subLinks li {
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+	padding: 0 0 2px 0;
+	border-bottom: 2px solid #d5d5d5;
 	font: 400 1em sans-serif;
 	color: #474747;
-	text-decoration: underline;
 }
 
 ul.tm__subLinks li a {
